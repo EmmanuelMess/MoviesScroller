@@ -1,5 +1,6 @@
 # MoviesScroller
-A simple copy of PopcornTime movie list
+A simple copy of PopcornTime movie list made with Qt5 and only in C++.
+Sorry its not more polished, I don't have much time for these projects
 
 <div align="center">
 	<img src="img/screenshot.png" alt="Screenshot">
