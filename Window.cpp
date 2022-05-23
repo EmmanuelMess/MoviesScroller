@@ -9,7 +9,7 @@
 #include <QGraphicsDropShadowEffect>
 
 Window::Window() {
-	setWindowTitle(tr("Basic Drawing"));
+	setWindowTitle(tr("Movies Scroller"));
 	setPalette(setUpPalette());
 	setMinimumSize(1200, 600);
 	setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
