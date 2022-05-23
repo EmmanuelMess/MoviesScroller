@@ -2,7 +2,7 @@
 A simple copy of PopcornTime movie list
 
 <div align="center">
-	<img width="256" src="img/screenshot.png" alt="Screenshot">
+	<img src="img/screenshot.png" alt="Screenshot">
 </div>
 
 ----
